@@ -1,0 +1,9 @@
+.h1Header {
+    text-align: center;
+}
+
+.Car-A, .Car-B, .Car-C, .Car-D, .Car-E, .p {
+    margin-top: auto;
+    margin-left: 10vh;
+    float: left;
+}
